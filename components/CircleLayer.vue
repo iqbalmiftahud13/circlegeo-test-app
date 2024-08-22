@@ -34,9 +34,9 @@ watch(
           type: "circle",
           source: "CircleLayer",
           paint: {
-            "circle-color": "#ff0000", // Properti styling yang valid
-            "circle-radius": 10, // Radius lingkaran
-            "circle-opacity": 0.5, // Opasitas lingkaran
+            "circle-color": "#ff0000", 
+            "circle-radius": 10, 
+            "circle-opacity": 0.5,
           },
         });
 
